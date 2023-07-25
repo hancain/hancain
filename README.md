@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @hancain
 - 👀 I’m interested in ...
-All sorts of things, mostly mobile, games, and python
+All sorts of things, mostly mobile, games, 3D modeling and graphics, and game mods
 - 🌱 I’m currently learning ...
-More about 3d modeling and geometry nodes in Blender
+More about Unreal and C++ development in the game enviornment
 - 💞️ I’m looking to collaborate on ...
-Websites and games!
+Websites, apps and games! Anything that has a fun visual, really
 - 📫 How to reach me ...
 Email: hcsch18@gmail.com 
-Discord: @wwizardly#2000
+Discord: @wwizardly
 
 <!---
 hancain/hancain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
